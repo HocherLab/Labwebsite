@@ -46,7 +46,9 @@ Read more about current projects happening in the lab
 {% endcapture %}
 
 {% capture text %}
-blabla team
+Description of current research
+
+
 {%
   include feature.html
   image="images/1KX5_Nucleosome.png"
@@ -58,7 +60,7 @@ blabla team
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="m"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -81,7 +83,7 @@ Meet the team
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text=""
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
