@@ -5,6 +5,6 @@
 
   # hocherantoine's Website
 
-  Visit **[hocherantoine.github.io/Labwebsite](https://hocherantoine.github.io/Labwebsite)** 🚀
+  Visit **[hocherlab.github.io/Labwebsite](https://hocherlab.github.io/Labwebsite)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
