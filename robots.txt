@@ -1,1 +1,1 @@
-Sitemap: https://hocherantoine.github.io/Labwebsite/sitemap.xml
+Sitemap: https://hocherlab.github.io/Labwebsite/sitemap.xml
