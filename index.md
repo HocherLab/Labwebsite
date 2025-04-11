@@ -1,48 +1,95 @@
-# MIMIC laboratory
+---
+---
+
+# MIMIC laboratory /!\ WEBSITE IN CONSTRUCTION, please come back again soon :)
 
 Molecular Innovations in Microbial Interactions and Chromatin
-/!\ WEBSITE UNDER CONSTRUCTION, please come back again soon :)
+
 
 {% include section.html %}
 
 ## Highlights
 
-{% capture text %} DNA genomes have been adopted by almost all forms of life. Consequently, the protein machinery that cells need to use their genetic information is both essential and largely well conserved. Beyond its sequence, DNA doesn’t differ much between altogether unrelated species, and for this reason DNA binding proteins often share structural similarities. The universality of DNA and DNA binding proteins makes horizontal gene transfer and synthetic biology possible, but also makes them vulnerable nodes prone to interference during genetic conflicts.
+{% capture text %}
 
-Our lab focuses on understanding these critical interactions and engineering innovative molecular tools from chromatin proteins and DNA mimics.
+Research Interests: 
 
-{% include button.html link="publications" text="See our publications" icon="fa-solid fa-arrow-right" flip=true style="bare" %} {% endcapture %}
+DNA genomes have been adopted by almost all forms of life. Consequently, the protein machinery that cells need to use their genetic information is both essential and largely well conserved. Beyond its sequence, DNA doesn’t differ much between altogether unrelated species, and for this reason DNA binding proteins often share structural similarities. The universality of DNA and DNA binding proteins is what makes horizontal gene transfer and synthetic biology possible. However, this comes at price, as DNA binding proteins inevitably become a weak node of cellular systems, often prone to interference during genetic conflicts.
 
-{% include feature.html image="images/1KX5_Nucleosome.png" link="publications" title="Our Research" text=text %}
 
-{% capture text %} We combine computational structural biology, large-scale phylogenomics, genetics, and experimental evolution to identify, understand, and engineer DNA mimicking proteins (DMPs). These peculiar proteins interact with essential bacterial pathways including CRISPR, restriction-modification systems, and chromatin organization. Our projects span from discovering new DMPs to dissecting their evolutionary roles and designing novel synthetic proteins.
+-Understanding and engineering chromatin:
 
-{% include button.html link="projects" text="Browse our projects" icon="fa-solid fa-arrow-right" flip=true style="bare" %} {% endcapture %}
+The tools of synthetic biology are now sufficiently mature to be applied beyond the generation of individual genetic circuits. In fact, they allow us to rethink and redesign entire systems of gene expression. Our group seeks to harness and engineer the diverse properties of chromatin. Part of this endeavour is dedicated to discovering chromatin proteins with new properties across the tree of life. We focus on the large-scale epigenetic regulation allowed by chromatin. Combining synthetic biology and chromatin evolution, our goal is to recreate minimal chromatin based epigenetic systems from the ground up.
 
-{% include feature.html image="images/projects_dmp.jpg" link="projects" title="Our Projects" flip=true style="bare" text=text %}
+-Discovering and engineering proteins that mimic DNA:
 
-{% capture text %} Our lab is led by Antoine Hocher, who established the MIMIC lab at the Department of Genetics in 2024. Antoine has a Bachelor in Physics and a Master in Systems Biology from École Normale Supérieure (Paris, France). He completed his PhD on yeast heterochromatin silencing at Institut Curie with Angela Taddei, followed by postdoctoral research with Tobias Warnecke at the MRC-London Institute of Medical Sciences, focusing on prokaryotic chromatin systems.
+Successful mimicry is a key survival strategy for many plants, insects, and even vertebrates. Mesmerizing camouflage or decoy tactics have evolved multiple times and are among the most intuitive examples of phenotypic convergence. The lab focuses on mimicry at the molecular level. We study proteins that have evolved to mimic DNA. While we know in detail a handful of case of proteins that mimic DNA, fewer than 30 DNA mimicking proteins (DMPs) have been described. Importantly, those that we know of interact with and, in the case of viral-encoded DMPs, disrupt key pathways for bacterial survival, including defence systems against exogenous elements (restriction modification systems, BREX, CRISPR), chromatin organization, and transcription. Studying and engineering this peculiar family of protein has the potential to reveal new way of inhibiting DNA binding proteins, and to advance our understanding of molecular mimicry.
 
-Our interdisciplinary team includes experts in computational biology, phylogenetics, structural biology, synthetic biology, and evolutionary genetics.
 
-{% include button.html link="team" text="Meet our team" icon="fa-solid fa-arrow-right" flip=true style="bare" %} {% endcapture %}
+Our lab combines computational structural biology, large-scale phylogenomics, genetics and experimental evolution to study and engineer DNA mimics. The lab uses computational and molecular biology to enable systematic discovery of new DMPs. We couple phylogenomics and directed evolution to design new DNA mimicking proteins and use phylogenomic analysis and genetics to dissect the impact of pathogenic DMPs on bacterial genome function and evolution.
+{%
+  include button.html
+  link="research"
+  text="See our publications"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
 
-{% include feature.html image="images/antoine_team.jpg" link="team" title="Our Team" text=text %}
+{% endcapture %}
 
-Research Interests:
+{%
+  include feature.html
+  image="images/1KX5_Nucleosome.png"
+  link="research"
+  title="Our Research"
+  text=text
+%}
 
-Understanding and engineering chromatin:
-Synthetic biology now allows us to redesign entire gene expression systems. We aim to engineer chromatin-based epigenetic mechanisms, discovering novel chromatin proteins across diverse organisms and recreating minimal epigenetic systems from first principles.
+{% capture text %}
 
-Discovering and engineering DNA mimicking proteins:
-Molecular mimicry is a fascinating evolutionary strategy used at every biological scale. Our lab systematically identifies, characterizes, and engineers proteins evolved to mimic DNA structures, targeting their potential as modulators of key bacterial functions.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-Keywords: phylogenetics, genomics, synthetic biology, genetic conflicts
+{%
+  include button.html
+  link="projects"
+  text="Browse our projects"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
 
-Join Us
+{% endcapture %}
 
-We welcome applications from enthusiastic students and talented postdocs. Creativity and scientific rigor are essential. Interested candidates should send Antoine Hocher (email) an outline of their research interests along with a CV.
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="projects"
+  title="Our Projects"
+  flip=true
+  style="bare"
+  text=text
+%}
 
-Acknowledgements
+{% capture text %}
 
-Work in the Hocher lab is made possible through generous funding from the Wellcome Trust.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+{%
+  include button.html
+  link="team"
+  text="Meet our team"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="team"
+  title="Our Team"
+  text=text
+%}
