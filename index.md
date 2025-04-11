@@ -1,7 +1,7 @@
 ---
 ---
 
-# MIMIC laboratory /!\ WEBSITE IN CONSTRUCTION, please come back again soon :)
+# MIMIC laboratory /!\ WEBSITE IN CONSTRUCTION, please come back again soon!
 
 Molecular Innovations in Microbial Interactions and Chromatin
 
@@ -50,7 +50,7 @@ blabla team
 {%
   include feature.html
   image="images/1KX5_Nucleosome.png"
-  title=""
+  title="Current research"
   text=text
 %}
 
