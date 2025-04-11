@@ -45,6 +45,8 @@ Read more about current projects happening in the lab
 
 {% endcapture %}
 
+{% capture text %}
+blabla team
 {%
   include feature.html
   image="images/1KX5_Nucleosome.png"
