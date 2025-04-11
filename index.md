@@ -84,5 +84,3 @@ Meet the team
   flip=true
   style="bare"
 %}
-
-{% endcapture %}
