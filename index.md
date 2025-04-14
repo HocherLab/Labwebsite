@@ -54,6 +54,7 @@ Description of current research
   title="Current research"
   text=text
 %}
+{% endcapture %}
 
 
 {%
@@ -65,7 +66,6 @@ Description of current research
   style="bare"
 %}
 
-{% endcapture %}
 
 
 {% capture text %}
@@ -78,6 +78,7 @@ Meet the team
   title="Our Team"
   text=text
 %}
+{% endcapture %}
 
 {%
   include button.html
@@ -87,4 +88,3 @@ Meet the team
   flip=true
   style="bare"
 %}
-{% endcapture %}
