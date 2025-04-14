@@ -33,12 +33,10 @@ The MIMIC Lab is a curiosity-driven research group led by Dr Antoine Hocher at t
 
 {% capture text %}
 
-Read more about current projects happening in the lab
 {%
   include button.html
   link="projects"
-  text="Read more about current projects"
-  icon="fa-solid fa-arrow-right"
+  text="Read more about current projects happening in the lab"
   flip=true
   style="bare"
 %}
@@ -69,17 +67,17 @@ Description of current research
 
 {% endcapture %}
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
 
 {% capture text %}
 
 Meet the team
+{%
+  include feature.html
+  image="images/theteam.png"
+  link="team"
+  title="Our Team"
+  text=text
+%}
 
 {%
   include button.html
