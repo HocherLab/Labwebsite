@@ -45,6 +45,7 @@ Read more about current projects happening in the lab
 
 {% endcapture %}
 
+
 {% capture text %}
 Description of current research
 
