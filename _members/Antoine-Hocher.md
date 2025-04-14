@@ -1,6 +1,6 @@
 ---
 name: Antoine Hocher
-image: images/hocher_ID_pic
+image: images/hocher_ID_pic.jpg
 role: Group leader
 group: 
 links:
