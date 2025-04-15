@@ -7,8 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Please get in touch !
-Email: ah2368@cam.ac.uk
+Please get in touch !\\
+Email: ah2368@cam.ac.uk\\
 ​
 --
 Address:
