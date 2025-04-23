@@ -2,7 +2,7 @@
 name: Antoine Hocher
 image: images/hocher_ID_pic.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: University of Cambridge
 aliases:
   - A. Hocher
 links:

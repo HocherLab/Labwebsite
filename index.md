@@ -5,7 +5,6 @@
 
 Molecular Innovations in Microbial Interactions and Chromatin
 
-
 {% include section.html %}
 
 ## Highlights
@@ -17,7 +16,7 @@ The MIMIC Lab is a curiosity-driven research group led by Dr Antoine Hocher at t
 {%
   include button.html
   link="research"
-  text="Read more about our research"
+  text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -28,7 +27,8 @@ The MIMIC Lab is a curiosity-driven research group led by Dr Antoine Hocher at t
 {%
   include feature.html
   image="images/hocher_ID_pic.jpg"
-  title="Our research"
+  link="research"
+  title="Our Research"
   text=text
 %}
 
@@ -39,29 +39,7 @@ Read more about current projects happening in the lab
 {%
   include button.html
   link="projects"
-  text=text
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-
-{%
-  include feature.html
-  image="images/1KX5_Nucleosome.png"
-  title="Current research"
-  text=text
-%}
-
-{% capture text %}
-
-Meet the team
-
-{%
-  include button.html
-  link="team"
-  text="Our team"
+  text="Browse our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -71,7 +49,32 @@ Meet the team
 
 {%
   include feature.html
-  image="images/theteam.png"
+  image="images/1KX5_Nucleosome.jpg"
+  link="projects"
+  title="Our Projects"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+{% capture text %}
+
+Meet our team
+
+{%
+  include button.html
+  link="team"
+  text="Meet our team"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
   link="team"
   title="Our Team"
   text=text

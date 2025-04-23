@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-We are a small -understand human sized- and motivated team. Our core values would be somewhere between creativity, rigorous work and team work.
+We are a dedicated, and highly motivated team committed to creativity, scientific rigor, and collaborative excellence. We work closely to combine innovative thinking with meticulous methodology. 
 
 {% include section.html %}
 
