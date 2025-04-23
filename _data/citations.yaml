@@ -1,24 +1,86 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1038/s41564-024-01730-w
-  title: 'Publisher Correction: Histones with an unconventional DNA-binding mode in
-    vitro are major chromatin constituents in the bacterium Bdellovibrio bacteriovorus'
+- id: doi:10.1111/mmi.15347
+  title: Future Directions of the Prokaryotic Chromosome Field
+  authors:
+  - E. A. Abbondanzieri
+  - A. B. Badrinarayanan
+  - "D. Barill\xE0"
+  - S. D. Bell
+  - F. Blombach
+  - J. Y. Bouet
+  - S. Bulgheresi
+  - Q. A. D. Cao
+  - R. T. Dame
+  - C. Dekker
+  - M. Demuysere
+  - "O. Esp\xE9li"
+  - P. C. M. Fogg
+  - P. L. Freddolino
+  - M. Ganji
+  - T. M. Gerson
+  - D. C. Grainger
+  - L. W. Hamoen
+  - J. Harju
+  - A. Hocher
+  - C. M. Hustmyer
+  - J. K. Kaljevic
+  - M. K. Karney
+  - N. Kleckner
+  - G. Laloux
+  - R. Landick
+  - V. S. Lioy
+  - W. L. Liu
+  - C. L. Liu
+  - "J. M\xE4kel\xE4"
+  - A. S. Meyer
+  - A. Noy
+  - M. P. Pineau
+  - K. Premrajka
+  - L. R. Racki
+  - "F\u2010Z. M. Rashid"
+  - K. Schnetz
+  - S. Schwab
+  - "M. Ti\u0161ma"
+  - A. I. van der Sijs
+  - T. van Heesch
+  - R. van Raaphorst
+  - J. Vreede
+  - A. W. Walker
+  - "J\u2010C. Walter"
+  - S. C. Weber
+  - P. A. Wiggins
+  - H. J. Wing
+  - J. Xiao
+  - Z. Zhang
+  publisher: Molecular Microbiology
+  date: '2025-02-01'
+  link: https://doi.org/g9gdvr
+  orcid: 0000-0001-7389-7558
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.09.18.613068
+  title: Systematic genome-guided discovery of antagonistic interactions between archaea
+    and bacteria
+  authors:
+  - Romain Strock
+  - Valerie WC Soo
+  - Antoine Hocher
+  - Tobias Warnecke
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-09-18'
+  link: https://doi.org/g9gdvs
+  orcid: 0000-0001-7389-7558
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/gbe/evae029
+  title: Nucleosomes at the Dawn of Eukaryotes
   authors:
   - Antoine Hocher
-  - Shawn P. Laursen
-  - Paul Radford
-  - Jess Tyson
-  - Carey Lambert
-  - Kathryn M. Stevens
-  - Alex Montoya
-  - Pavel V. Shliaha
-  - Mathieu Picardeau
-  - R. Elizabeth Sockett
-  - Karolin Luger
   - Tobias Warnecke
-  publisher: Nature Microbiology
-  date: '2024-05-22'
-  link: https://doi.org/g9fg33
+  publisher: Genome Biology and Evolution
+  date: '2024-02-14'
+  link: https://doi.org/gthzxt
   orcid: 0000-0001-7389-7558
   plugin: orcid.py
   file: orcid.yaml
@@ -104,6 +166,49 @@
   publisher: Proceedings of the National Academy of Sciences
   date: '2020-12-07'
   link: https://doi.org/gsvfrh
+  orcid: 0000-0001-7389-7558
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/bies.201900205
+  title: Subtelomeres as Specialized Chromatin Domains
+  authors:
+  - Antoine Hocher
+  - Angela Taddei
+  publisher: BioEssays
+  date: '2020-03-17'
+  link: https://doi.org/gt3qvj
+  orcid: 0000-0001-7389-7558
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/elife.52542
+  title: The DNA-binding protein HTa from Thermoplasma acidophilum is an archaeal
+    histone analog
+  authors:
+  - Antoine Hocher
+  - Maria Rojec
+  - Jacob B Swadling
+  - Alexander Esin
+  - Tobias Warnecke
+  publisher: eLife
+  date: '2019-11-11'
+  link: https://doi.org/ggcqb8
+  orcid: 0000-0001-7389-7558
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/gr.236554.118
+  title: Expanding heterochromatin reveals discrete subtelomeric domains delimited
+    by chromatin landscape transitions
+  authors:
+  - Antoine Hocher
+  - Myriam Ruault
+  - Petra Kaferle
+  - Marc Descrimes
+  - "Micka\xEBl Garnier"
+  - Antonin Morillon
+  - Angela Taddei
+  publisher: Genome Research
+  date: '2018-10-24'
+  link: https://doi.org/gfnkrd
   orcid: 0000-0001-7389-7558
   plugin: orcid.py
   file: orcid.yaml
