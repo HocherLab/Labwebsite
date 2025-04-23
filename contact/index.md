@@ -7,17 +7,20 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Please get in touch !\\
+Please get in touch !
+
 Email: ah2368@cam.ac.uk\\
-​
+
 --
 Address:
 --
+
 Department of Genetics 
-University of Cambridge 
-Tennis Court Road 
-Cambridge 
-CB2 3EH 
+
+University of Cambridge\
+Tennis Court Road\
+Cambridge\  
+CB2 3EH\ 
 
 {%
   include button.html

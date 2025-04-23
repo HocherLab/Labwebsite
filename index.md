@@ -11,6 +11,7 @@ Molecular Innovations in Microbial Interactions and Chromatin
 ## Highlights
 
 {% capture text %}
+
 The MIMIC Lab is a curiosity-driven research group led by Dr Antoine Hocher at the University of Cambridge dedicated to exploring how evolution shapes chromatin and molecular mimicry. Combining evolutionary thinking with synthetic biology, computational analyses, and experimental approaches, we want to uncover fundamental principles behind DNA-binding proteins and their vulnerabilities during genetic conflicts. 
 
 {%
@@ -27,11 +28,12 @@ The MIMIC Lab is a curiosity-driven research group led by Dr Antoine Hocher at t
 {%
   include feature.html
   image="images/hocher_ID_pic.jpg"
-  title=""
+  title="Our research"
   text=text
 %}
 
 {% capture text %}
+
 Read more about current projects happening in the lab
 
 {%
@@ -52,23 +54,20 @@ Read more about current projects happening in the lab
   text=text
 %}
 
-
 {% capture text %}
-Meet the team
 
+Meet the team
 
 {%
   include button.html
   link="team"
-  text=""
+  text="Our team"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
 %}
 
 {% endcapture %}
-
-
 
 {%
   include feature.html
@@ -77,4 +76,3 @@ Meet the team
   title="Our Team"
   text=text
 %}
-
