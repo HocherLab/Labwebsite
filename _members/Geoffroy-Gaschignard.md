@@ -4,7 +4,7 @@ image: images/Gaschignard.jpeg
 role: postdoc
 affiliation: University of Cambridge
 aliases:
-  - G. Gaschignard
+  - Gaschignard
 links:
   home-page: 
   orcid: 0000-0003-4898-4742
