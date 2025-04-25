@@ -49,7 +49,7 @@ Read more about current projects happening in the lab
 
 {%
   include feature.html
-  image="images/1KX5_Nucleosome.jpg"
+  image="images/1KX5_Nucleosome.ppg"
   link="projects"
   title="Our Projects"
   flip=true
