@@ -49,33 +49,10 @@ Read more about current projects happening in the lab
 
 {%
   include feature.html
-  image="images/1KX5_Nucleosome.ppg"
+  image="images/1KX5_Nucleosome.jpg"
   link="projects"
   title="Our Projects"
   flip=true
   style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Meet our team
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
   text=text
 %}
