@@ -1,1 +1,0 @@
-Sitemap: https://hocherlab.github.io/Labwebsite/sitemap.xml
