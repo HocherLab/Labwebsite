@@ -14,18 +14,18 @@ We are a dedicated, and highly motivated team committed to creativity, scientifi
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
+
+## Alumni
+
+Max Perrin (BBSRC rotation)
+Vidun Wedagedera (Part II student)
+Adam Gibbon (Part III student)
+
 {% include section.html background="images/background.jpg" dark=true %}
 
 Interested in joining the team? Please look at the Join Us section!
 
 {% include section.html %}
 
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
 
 {% include grid.html style="square" content=content %}

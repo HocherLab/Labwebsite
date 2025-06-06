@@ -1,17 +1,18 @@
 ---
 ---
 
-# MIMIC laboratory /!\ WEBSITE IN CONSTRUCTION, please come back again soon!
+# MIMIC laboratory
 
 Molecular Innovations in Microbial Interactions and Chromatin
 
-{% include section.html %}
+The MIMIC Lab is a curiosity-driven research group led by Dr Antoine Hocher at the University of Cambridge dedicated to exploring how evolution shapes chromatin and molecular mimicry. We are located in the heart of Cambridge, in the department of Genetics.
+
 
 ## Highlights
 
 {% capture text %}
 
-The MIMIC Lab is a curiosity-driven research group led by Dr Antoine Hocher at the University of Cambridge dedicated to exploring how evolution shapes chromatin and molecular mimicry. Combining evolutionary thinking with synthetic biology, computational analyses, and experimental approaches, we want to uncover fundamental principles behind DNA-binding proteins and their vulnerabilities during genetic conflicts. 
+Combining evolutionary thinking with synthetic biology, computational analyses, and experimental approaches, we want to uncover fundamental principles behind DNA-binding proteins and their vulnerabilities during genetic conflicts. Check out past publication from the lab to see what kind of work we have been doing.
 
 {%
   include button.html
@@ -27,6 +28,8 @@ The MIMIC Lab is a curiosity-driven research group led by Dr Antoine Hocher at t
 {%
   include feature.html
   image="images/hocher_ID_pic.jpg"
+  image_width="600"
+  image_height="400"
   link="research"
   title="Our Research"
   text=text
@@ -34,7 +37,7 @@ The MIMIC Lab is a curiosity-driven research group led by Dr Antoine Hocher at t
 
 {% capture text %}
 
-Take a look at the projects we're currently working on in the lab, or have a browse through some of our recent publications to see what we've been up to.
+Take a look at the projects we're currently working on in the lab. There might be more on going, so if you pass by Cambridge or fancy a chat, please get in touch.
 {%
   include button.html
   link="projects"
@@ -48,10 +51,41 @@ Take a look at the projects we're currently working on in the lab, or have a bro
 
 {%
   include feature.html
-  image="images/1KX5_Nucleosome.jpg"
+  image="images/Example_histone.png"
+  image_width="600"
+  image_height="400"
   link="projects"
   title="Our Projects"
   flip=true
   style="bare"
   text=text
 %}
+
+
+{% capture text %}
+
+Meet the team! The lab is still growing, so please get in touch (See the Join Us section) if you would be interested to work with us.
+{%
+  include button.html
+  link="team"
+  text="Meet the team"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/theteam.png"
+  image_width="600"
+  image_height="400"
+  link="team"
+  title="The team"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+
